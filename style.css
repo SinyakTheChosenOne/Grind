@@ -9,8 +9,6 @@ body {
 }
 
 .container {
-    border: 3px solid yellow;
-    width: 90%;
     height: 120vh;
     margin: auto;
     display: flex;
@@ -22,6 +20,7 @@ body {
     margin: auto;
     border: 2px solid black;
     width: fit-content;
+    background-color: rgb(179, 209, 255, 0.35)
 }
 
 .digital__clock h1 {
